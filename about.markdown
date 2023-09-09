@@ -4,4 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Welcome to MicroKosm
+MicroKosm, the operating system for the future, now at your fingertips.
+
+Ideated and made by:
+
+Filippo Mutta
+filippo.mutta@gmail.com
