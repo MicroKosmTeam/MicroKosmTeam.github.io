@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Introduction to MicroKosm"
-date:   2023-09-10 12:00:00 +0200
+date:   2023-09-01 12:00:00 +0200
 categories: microkosm update
 ---
 
