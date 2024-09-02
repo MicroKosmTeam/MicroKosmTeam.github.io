@@ -32,7 +32,7 @@ It is also made to be updatable and expandable in the future, so as to always ke
 There are always a lot of things that MicroKosm can help you achieve, depending on who you are:
 
 ### Companies and corporations
-Wether you're a startup or a large corporation, MicroKosm can be part of your tech stack. We pride ourselves in its minimal design and flexibility, and we're sure anyone can make use of it.  
+Whether you're a startup or a large corporation, MicroKosm can be part of your tech stack. We pride ourselves in its minimal design and flexibility, and we're sure anyone can make use of it.  
 
 First of all, new features are being developed that will allow drivers to be updated at runtime, without causing any downtime. This will be not only useful for embedded and IoT devices, but also for any machines where any offline time can cause service disruption, such as servers and computing clusters.  
 
